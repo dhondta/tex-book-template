@@ -3,7 +3,7 @@ title: LaTeX Book Template
 layout: page
 use-site-title: false
 ---
-# LaTeX Book Template
+## Introduction
 
 The goal of this template is to provide a nice-looking book layout, easy to configure and fill in.
 
